@@ -1,0 +1,6 @@
+[submodule "lich"]
+	path = lich
+	url = https://github.com/nyanzoo/lich
+[submodule "phylactery"]
+	path = phylactery
+	url = https://github.com/nyanzoo/phylactery
