@@ -4,3 +4,6 @@
 [submodule "phylactery"]
 	path = phylactery
 	url = https://github.com/nyanzoo/phylactery
+[submodule "necronomicon"]
+	path = necronomicon
+	url = https://github.com/nyanzoo/necronomicon
