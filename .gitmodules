@@ -7,3 +7,6 @@
 [submodule "necronomicon"]
 	path = necronomicon
 	url = https://github.com/nyanzoo/necronomicon
+[submodule "skeleton"]
+	path = skeleton
+	url = https://github.com/nyanzoo/skeleton
